@@ -1,0 +1,2 @@
+module DummysHelper
+end
